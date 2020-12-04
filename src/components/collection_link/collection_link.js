@@ -2,10 +2,11 @@ import React, { Component } from 'react';
 
 class CollectionLink extends Component {
   render() {
+    const { collection } = this.props
     return (
       <li className="list-item">
         <a href="#">
-          /{this.props.collection.title} * <span>{this.props.collection.category}</span>
+          /{collection.title} * <span>{collection.category}</span>
         </a>
       </li>
     );
