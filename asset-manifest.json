@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/aeck/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/aeck/static/js/main.be0aabf6.chunk.js",
-    "main.js.map": "/aeck/static/js/main.be0aabf6.chunk.js.map",
+    "main.css": "/aeck/static/css/main.b561c8bc.chunk.css",
+    "main.js": "/aeck/static/js/main.a8e002cd.chunk.js",
+    "main.js.map": "/aeck/static/js/main.a8e002cd.chunk.js.map",
     "runtime-main.js": "/aeck/static/js/runtime-main.5f540c6c.js",
     "runtime-main.js.map": "/aeck/static/js/runtime-main.5f540c6c.js.map",
     "static/js/2.abbf6914.chunk.js": "/aeck/static/js/2.abbf6914.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.66e256a8.chunk.js": "/aeck/static/js/3.66e256a8.chunk.js",
     "static/js/3.66e256a8.chunk.js.map": "/aeck/static/js/3.66e256a8.chunk.js.map",
     "index.html": "/aeck/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/aeck/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.b561c8bc.chunk.css.map": "/aeck/static/css/main.b561c8bc.chunk.css.map",
     "static/js/2.abbf6914.chunk.js.LICENSE.txt": "/aeck/static/js/2.abbf6914.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/aeck/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5f540c6c.js",
     "static/js/2.abbf6914.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.be0aabf6.chunk.js"
+    "static/css/main.b561c8bc.chunk.css",
+    "static/js/main.a8e002cd.chunk.js"
   ]
 }
