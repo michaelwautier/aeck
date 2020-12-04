@@ -2,47 +2,47 @@ const collections = [
   {
     id: 1,
     title: "Etoile Sud",
-    category: "photography"
+    category: "Photography"
   },
   {
     id: 2,
     title: "Table à manger",
-    category: "photography"
+    category: "Photography"
   },
   {
     id: 3,
     title: "Banal Exotisme",
-    category: "photography"
+    category: "Photography"
   },
   {
     id: 4,
     title: "Entre deux eaux",
-    category: "photography"
+    category: "Photography"
   },
   {
     id: 5,
     title: "Vavang'",
-    category: "photography"
+    category: "Photography"
   },
   {
     id: 6,
     title: "Humans",
-    category: "photography"
+    category: "Photography"
   },
   {
     id: 7,
     title: "Reveria",
-    category: "mixed"
+    category: "Mixed"
   },
   {
     id: 8,
     title: "Slash",
-    category: "graphic"
+    category: "Graphic Design"
   },
   {
     id: 9,
     title: "Mixed Visual",
-    category: "graphic"
+    category: "Graphic Design"
   },
 ]
 

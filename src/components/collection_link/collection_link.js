@@ -3,7 +3,11 @@ import React, { Component } from 'react';
 class CollectionLink extends Component {
   render() {
     return (
-      <li><a href="#">/{this.props.collection.title} * {this.props.collection.category}</a></li>
+      <li className="list-item">
+        <a href="#">
+          /{this.props.collection.title} * <span>{this.props.collection.category}</span>
+        </a>
+      </li>
     );
   }
 }
